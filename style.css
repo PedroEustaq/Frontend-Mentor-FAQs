@@ -36,6 +36,8 @@ h2 {
     font-size: 18px;
     font-family: MGord;
     transition: color 0.3s ease;
+    user-select: none;
+    cursor: default;
 }
 h2:hover {
     color: hsl(276, 55%, 50%);
