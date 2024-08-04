@@ -31,14 +31,14 @@ section {
     margin-top: 25px;
     margin-bottom: 25px;
 }
-label {
+h2 {
     display: inline;
     font-size: 18px;
     font-family: MGord;
     transition: color 0.3s ease;
 }
-label:hover {
-    color: hsl(276, 55%, 50%)
+h2:hover {
+    color: hsl(276, 55%, 50%);
 }
 main {
     width: 550px;
